@@ -4,6 +4,9 @@ axios - for api calls
 sweetalert - for alert service
 material-ui - for design purpose
 
+### start server
+npm start
+
 ### unctionality
 . This is react app which shows the list of users who lived in a city with some basic details.\
 . We have some Predfined filters. Which are shown as button.\
